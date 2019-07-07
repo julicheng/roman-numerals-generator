@@ -24,4 +24,5 @@ Node.js will be installed on the users computer.
 # Caveats
 
 Only supports numbers between 1 - 3999
+
 When the input is a string with a number it will convert the string into a number
